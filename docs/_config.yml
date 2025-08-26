@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: '张熠明的博客'
-email: your-email@example.com
+email: 2185237712@qq.com
 description: >- 
   很高兴能在这里与你分享我对技术和生活的思考。
 baseurl: "/ymzzhang.github.io" # the subpath of your site, e.g. /blog
@@ -31,7 +31,7 @@ github_username:  jekyll
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-remote_theme: YimingAmen/jekyll-theme-H2O
+theme: Hacker
 
 # Exclude from processing.
 # The following items will not be processed, by default.
